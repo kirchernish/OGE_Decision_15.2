@@ -1,6 +1,6 @@
 ###############
-#  Create by  #
-#   kiri11    #     
+# Create by   #
+# kircernish  #     
 ###############
 def WhatItIs(Task):
     flagSum, flagQuan, flagMin, flagMax, flagEnd, flagMult = False, False, False, False, False, False
